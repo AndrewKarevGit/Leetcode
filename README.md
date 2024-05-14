@@ -4,5 +4,5 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Already solved:
-217. Contains Duplicate
-242. Valid Anagram
+217. [Contains Duplicate](https://github.com/AndrewKarevGit/Leetcode/tree/main/ContainsDuplicate)
+242. [Valid Anagram](https://github.com/AndrewKarevGit/Leetcode/tree/main/ValidAnagram)
