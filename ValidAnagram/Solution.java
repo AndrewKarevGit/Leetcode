@@ -1,3 +1,6 @@
+//Speed: O(nlog(n))
+//Memory: O(n)
+
 class Solution {
     public boolean isAnagram(String s, String t) {
 
